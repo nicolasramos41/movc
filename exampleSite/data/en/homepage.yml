@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/foto_misiones.jpg"
   bg_overlay: true
   title: Movimiento de Vida Cristiana
   content: 'Vivimos para el encuentro con Cristo. Él obra en nosotros y nosotros por
