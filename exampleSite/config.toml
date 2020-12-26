@@ -38,23 +38,23 @@ name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"
-name = "Home"
+name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Sobre nosotros"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
-name = "Project"
+name = "Proyectos"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Noticias"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Forms"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "faq"
@@ -70,7 +70,7 @@ name = "Service"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
