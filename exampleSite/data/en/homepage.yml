@@ -16,12 +16,10 @@ about:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: |-
+    Somos un movimiento eclesial que anima entre sus miembros -laicos, clérigos y consagrados- a vivir la vocación a la santidad y al apostolado que tenemos todos los cristianos.
+
+    Queremos colaborar con la misión evangelizadora de la Iglesia, promoviendo la reconciliación traída por el Señor Jesús. Viviendo la piedad filial a Santa María y compartiendo nuestra fe en comunidades, nos proyectamos apostólicamente a todos los ámbitos de la sociedad.
   image: "/images/made.jpg"
 portfolio:
   enable: true
